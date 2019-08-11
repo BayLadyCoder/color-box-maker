@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/color-box-maker/static/css/main.215b786a.chunk.css",
+    "main.js": "/color-box-maker/static/js/main.9a216ac3.chunk.js",
+    "main.js.map": "/color-box-maker/static/js/main.9a216ac3.chunk.js.map",
+    "runtime~main.js": "/color-box-maker/static/js/runtime~main.c1fb49e7.js",
+    "runtime~main.js.map": "/color-box-maker/static/js/runtime~main.c1fb49e7.js.map",
+    "static/js/2.364196d1.chunk.js": "/color-box-maker/static/js/2.364196d1.chunk.js",
+    "static/js/2.364196d1.chunk.js.map": "/color-box-maker/static/js/2.364196d1.chunk.js.map",
+    "index.html": "/color-box-maker/index.html",
+    "precache-manifest.42fe0ec5cd54404a5e1331a03be34218.js": "/color-box-maker/precache-manifest.42fe0ec5cd54404a5e1331a03be34218.js",
+    "service-worker.js": "/color-box-maker/service-worker.js",
+    "static/css/main.215b786a.chunk.css.map": "/color-box-maker/static/css/main.215b786a.chunk.css.map"
+  }
+}
