@@ -1,0 +1,23 @@
+.NewBoxForm {
+    width: 100vw;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+form {
+    margin-bottom: 30px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+input {
+    margin: 5px;
+}
+
+button {
+    margin-top: 10px;
+}
