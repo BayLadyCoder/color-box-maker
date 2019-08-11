@@ -11,7 +11,7 @@ const Box = props => {
   return (
     <div className="Box">
       <div style={style}>
-        <button>x</button>
+        <button onClick={props.removeBox}>x</button>
       </div>
     </div>
   );
