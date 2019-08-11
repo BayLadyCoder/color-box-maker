@@ -1,18 +1,18 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "e9188aebe711c458687c3e65c443a798",
+    "revision": "27624172aead5feca33246694137e5b2",
     "url": "/color-box-maker/index.html"
   },
   {
-    "revision": "bcb922950efe569b134c",
-    "url": "/color-box-maker/static/css/main.215b786a.chunk.css"
+    "revision": "5074a681b35015b693d7",
+    "url": "/color-box-maker/static/css/main.f49dfb71.chunk.css"
   },
   {
     "revision": "8d147c17fc28f99b2932",
     "url": "/color-box-maker/static/js/2.364196d1.chunk.js"
   },
   {
-    "revision": "bcb922950efe569b134c",
+    "revision": "5074a681b35015b693d7",
     "url": "/color-box-maker/static/js/main.9a216ac3.chunk.js"
   },
   {
